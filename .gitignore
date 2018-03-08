@@ -11,6 +11,9 @@ selenium-debug.log
 # Editor directories and files
 .idea
 .vscode
+dist/
+npm-debug.log
+yarn-error.log
 *.suo
 *.ntvs*
 *.njsproj
